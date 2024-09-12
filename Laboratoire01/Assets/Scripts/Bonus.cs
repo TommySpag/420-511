@@ -7,7 +7,6 @@ public class Bonus : MonoBehaviour
     // Initiate variables
     private float speed = 20.0f;
     private float forwardInput;
-    private bool active;
 
     // Start is called before the first frame update
     void Start()
